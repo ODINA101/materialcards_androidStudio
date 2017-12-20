@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">materialcards</string>
+    <string name="read_more">read_more</string>
+    <string name="blog_content">blog_content</string>
+    <string name="_21_comments">21 Comments</string>
+    <string name="place_holder">place_holder</string>
+    <string name="blog_title">blog_title</string>
+    <string name="mybtn">mybtn</string>
+</resources>
